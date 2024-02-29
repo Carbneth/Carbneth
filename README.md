@@ -13,7 +13,7 @@
 ![carbneth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carbneth&theme=monokai&show_icons=true&hide_border=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=carbneth&icon=2&color=12)](https://visitcount.itsvg.in)
